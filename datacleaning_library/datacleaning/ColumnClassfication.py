@@ -1,9 +1,9 @@
-/*
-Licensing stuff explanation of this class
-*/
+#/*
+#Licensing stuff explanation of this class
+#*/
 
 
-def classify(): 
+def classify():
     """
     #what data types does this take in ....
     """
